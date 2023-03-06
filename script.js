@@ -104,9 +104,7 @@ window.addEventListener('load', () => {
     } catch (e) {
       console.log('error is here')
     }
-
-
-  })
+    }) 
 
   function createTask(task) {
     return fetch('http://localhost:3000/user', {
