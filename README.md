@@ -1,14 +1,4 @@
-#  Note Taker 
 
-Write, save, and delete notes! 
-
-[Project #11][7] of [UCF Coding Bootcamp](https://bootcamp.ce.ucf.edu/coding/)
-
-Deployed on [Heroku][1]! 
-
-Front-end starter code from [Xandromus][2]
-
----
 ## UsagePull requests
 ><b>Add a note:</b> Fill in the title and body, then hit the floppy disk save icon.
 >> You will see your note saved in the left side column.
@@ -43,12 +33,10 @@ I wrote the back-end `JavaScript`, connected the front-end, and then deployed th
 |<center><b>notes page with one stored note and creating a new one</b>|<center><b>notes page with two stored notes. viewing a stored note</b>|
 ![][5]|![][6]
 
-___
 
-[1]:https://young-harbor-02832.herokuapp.com
-[2]:https://github.com/coding-boot-camp/miniature-eureka
-[3]:https://raw.githubusercontent.com/its-jefe/Note-Taker/main/images/1.png
-[4]:https://raw.githubusercontent.com/its-jefe/Note-Taker/main/images/2.png
-[5]:https://raw.githubusercontent.com/its-jefe/Note-Taker/main/images/3.png
-[6]:https://raw.githubusercontent.com/its-jefe/Note-Taker/main/images/4.png
-[7]:https://github.com/UCF-Coding-Boot-Camp/UCF-VIRT-BO-FSF-PT-04-2021-U-B/tree/main/11-Express/02-Challenge
+### links:
+https://github.com/Mahdis8160/Express-JS-Note-Taker
+
+https://mahdis8160.github.io/Express-JS-Note-Taker/
+
+https://secret-dusk-20787.herokuapp.com/
